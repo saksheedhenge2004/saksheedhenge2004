@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sakshee 👋
 
-<!--
-**saksheedhenge2004/saksheedhenge2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Data Science student passionate about turning data into insights and building intelligent systems.  
+💼 Currently doing an internship in the field of data science.  
+📊 I enjoy working with Python, machine learning, and data visualization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- 📌 Languages: Python, SQL, R
+- 📌 Libraries: NumPy, Pandas
+- 📌 Tools: Jupyter Notebook, VS Code, Git, Tableau, Power BI
+- 📌 Areas of Interest: Machine Learning, Deep Learning, Data Analysis, NLP
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Deep Learning (CNNs & RNNs)
+- 🧠 Natural Language Processing (NLP)
+- 🧹 MLOps & Model Deployment
+
+
+---
+
